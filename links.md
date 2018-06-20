@@ -5,7 +5,7 @@ permalink: /link/
 ---
 
 Some of the links:
-- pgLife https://myseq.github.com/pgLife
+- pgLife https://myseq.github.com/pgLife/
 - Lavinia 
 - Villa Emas
 - Wangsa Permai
