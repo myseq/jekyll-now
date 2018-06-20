@@ -1,8 +1,7 @@
 # pgLife
 
-**pgLife** is a GitHub hosted pages/blogs that build from Jekyll-now. It's build in minutes, without touching the command line. 
+**pgLife** is a personal site hosts at GitHub. It is built from Jekyll-now (in minutes) without touching the command line. 
 
-At **pgLife**, you'll find the:
+At here, you'll find all the files about the **pgLife** site, including:
 - The updates of how ***pgLife*** transform.
 - Everything about ***pgLife***. 
-
