@@ -4,12 +4,12 @@ title: Links
 permalink: /link/
 ---
 
-All the links 
+Some of the links:
+- pgLife https://myseq.github.com/pgLife
+- Lavinia 
+- Villa Emas
+- Wangsa Permai
+
 
 ### More Information
-
-- HackerTyper http://hackertyper.com/ 
-
-### Contact me
-
-[pglife@gmail.com](mailto:pglife@gmail.com)
+- GitHub https://github.com/ 
