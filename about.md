@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+[ include some information about pgLife here! ]
 
 ### More Information
 
