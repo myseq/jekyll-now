@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown Style Guide
+title: [Quick MD Style Guide]
 ---
 
 This is a demo of all styled elements in Jekyll Now.
