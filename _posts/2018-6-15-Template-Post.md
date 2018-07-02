@@ -10,8 +10,7 @@ Sample | Markdown Code
 **Bold** | `**Bold**`
 *Italic* | `*Italic*` or `_Italic_`
 `code()` | `code()`
-> Blockquote | `> Blockquote`
->> Nested Blockquote | `>> Nested Blockquote`
+- bullet | `- bullet`
 
 
 # Template
