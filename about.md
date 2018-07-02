@@ -14,10 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 [pglifemaker@gmail.com](mailto:pglife@gmail.com)
 
-# Samples
-
-Sample | Markdown Code
-----|----
-**Bold** | `**Bold**`
-*Italic* | `*Italic*`
 
