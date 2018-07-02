@@ -9,7 +9,8 @@ Sample | Markdown Code
 ----|----
 **Bold** | `**Bold**`
 *Italic* | `*Italic*`
-
+_Italic_ | `_Italic_`
+`code()` | `code()`
 
 
 # Template
