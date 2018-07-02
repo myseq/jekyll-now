@@ -3,15 +3,13 @@ layout: post
 title: Quick MD Style Guide
 ---
 
-# Samples
+# Table
 
-Sample | Markdown Code
+Inline Sample | Markdown Code
 ----|----
 **Bold** | `**Bold**`
 *Italic* | `*Italic*` or `_Italic_`
 `code()` | `code()`
-- bullet | `- bullet`
-
 
 # Template
 
