@@ -8,9 +8,10 @@ title: Quick MD Style Guide
 Sample | Markdown Code
 ----|----
 **Bold** | `**Bold**`
-*Italic* | `*Italic*`
-_Italic_ | `_Italic_`
+*Italic* | `*Italic*` or `_Italic_`
 `code()` | `code()`
+> Blockquote | `> Blockquote`
+>> Nested Blockquote | `>> Nested Blockquote`
 
 
 # Template
