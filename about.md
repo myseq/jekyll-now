@@ -4,11 +4,14 @@ title: About
 permalink: /about/
 ---
 
-[ include some information about pgLife here! ]
+做人簡單就好，生活寧靜就好。
 
-### More Information
+### 極簡
 
-A place to include any other types of information that you'd like to include about yourself.
+慾望極簡 - 不盲從、不跟風
+感情極簡 - 不攀附、不將就
+物質極簡 - 不迷戀、不堆積
+工作極簡 - 不拖延、不抱怨
 
 ### My :mailbox:
 
